@@ -1,7 +1,8 @@
 # Memory-Game using HTML ,CSS ,JavaScript
 
 ## Just Go and Play :
-## https://nayan821.github.io/Memory-Game/
+## [Play Now](https://nayan821.github.io/Memory-Game/)
+
 
 ## 📷 Video Preview 
 
