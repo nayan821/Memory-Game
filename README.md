@@ -1,7 +1,7 @@
 # Memory-Game using HTML ,CSS ,JavaScript
 
 ## Just Go and Play :
-## [Play Now](https://nayan821.github.io/Memory-Game/index.html)
+## Click here to play: [Play Now](https://sahilatahar.github.io/Car-Game/)
 
 
 ## 📷 Video Preview 
